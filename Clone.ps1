@@ -5,6 +5,7 @@ $targetDirectory = $PSScriptRoot
 $repositories = @(
     @{ Url = "https://github.com/RoelCrabbe/MoronBoxCore.git"; DirectoryName = "MoronBoxCore" },
     @{ Url = "https://github.com/RoelCrabbe/MoronBoxDecursive.git"; DirectoryName = "MoronBoxDecursive" },
+    @{ Url = "https://github.com/RoelCrabbe/MoronSort.git"; DirectoryName = "MoronSort" },
     @{ Url = "https://github.com/zelazrgn/KLHThreatMeter.git"; DirectoryName = "KLHThreatMeter" },
     @{ Url = "https://github.com/shagu/ShaguTweaks.git"; DirectoryName = "ShaguTweaks" }
 )
