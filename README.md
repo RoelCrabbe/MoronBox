@@ -14,4 +14,6 @@ Cloning into 'C:\path\to\MoronBox\KLHThreatMeter'...
 Cloning into 'C:\path\to\MoronBox\ShaguTweaks'...
 Repositories cloned into C:\path\to\MoronBox.
 ```
+These will be the addons you will need to place into you're interface folder
+
 5) If there are updates doing .\Update.ps1 will update the scripts
